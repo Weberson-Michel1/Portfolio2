@@ -7,7 +7,7 @@ function App() {
 
   return (
     
-    <main className="bg-slate-300/200">
+    <main className="bg-slate-300/200 h-[100vh]">
       <Router>
         <Navbar/>
           <Routes>

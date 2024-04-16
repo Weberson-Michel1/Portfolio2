@@ -24,7 +24,7 @@ const renderContent = {
     ),
     2: (
         < InfoBox
-            text="Formé a l'EPITECH, j'ai acquis certaines compétences et surtout une métode de travail pendant mon parcours "
+            text="Formé a l'EPITECH, j'y ai acquis certaines compétences et surtout une métode de travail pendant mon parcours "
             link="/about"
             btnText="en savoir plus"
             
